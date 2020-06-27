@@ -1,0 +1,7 @@
+{
+  "success": true,
+  "bucket": {
+    "id": "12",
+    "url": "https://wptypes.s3.amazonaws.com/wpml-bucket-12.json"
+  }
+}

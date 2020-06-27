@@ -1,0 +1,59 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">address</custom-field>
+        <custom-field action="translate">address_title</custom-field>
+        <custom-field action="translate">contact_form_title</custom-field>
+        <custom-field action="translate">success_message</custom-field>
+        <custom-field action="translate">privacy_text</custom-field>
+        <custom-field action="translate">custom_page_title</custom-field>
+        <custom-field action="translate">laborator_meta_description</custom-field>
+        <custom-field action="translate">laborator_meta_keywords</custom-field>
+        <custom-field action="translate">laborator_meta_robots_follow</custom-field>
+        <custom-field action="translate">laborator_meta_robots_index</custom-field>
+        <custom-field action="translate">location_label</custom-field>
+        <custom-field action="translate">more_locations</custom-field>
+        <custom-field action="copy">available_fields</custom-field>
+        <custom-field action="copy">contact_page_blocks</custom-field>
+        <custom-field action="copy">email_notifications</custom-field>
+        <custom-field action="copy">enable_route_finder</custom-field>
+        <custom-field action="copy">exclude_product_categories</custom-field>
+        <custom-field action="copy">map_allowed_map_types</custom-field>
+        <custom-field action="copy">map_enable_type_switcher</custom-field>
+        <custom-field action="copy">map_fourtyfive_degree</custom-field>
+        <custom-field action="copy">map_location</custom-field>
+        <custom-field action="copy">map_panby</custom-field>
+        <custom-field action="copy">map_pin</custom-field>
+        <custom-field action="copy">map_type</custom-field>
+        <custom-field action="copy">map_zoom_level</custom-field>
+        <custom-field action="copy">required_fields</custom-field>
+        <custom-field action="copy">revslider_id</custom-field>
+        <custom-field action="copy">street_view_heading</custom-field>
+        <custom-field action="copy">street_view_pitch</custom-field>
+        <custom-field action="ignore">post_slider_images</custom-field>
+    </custom-fields>
+    <custom-fields-texts>
+        <key name="more_locations">
+            <key name="label" />
+        </key>
+    </custom-fields-texts>
+    <admin-texts>
+        <key name="theme_mods_oxygen">
+            <key name="logo_text"/>
+            <key name="footer_text"/>
+            <key name="footer_text_right"/>
+        </key>
+    </admin-texts>
+    <language-switcher-settings>
+        <key name="icl_language_switcher_sidebar">1</key>
+        <key name="icl_widget_title_show">1</key>
+        <key name="icl_lang_sel_type">dropdown</key>
+        <key name="icl_lso_link_empty">0</key>
+        <key name="icl_lso_flags">1</key>
+        <key name="icl_lso_native_lang">1</key>
+        <key name="icl_lso_display_lang">0</key>
+        <key name="icl_lang_sel_footer">0</key>
+        <key name="icl_post_availability">1</key>
+        <key name="icl_post_availability_position">below</key>
+        <key name="icl_post_availability_text">This post is also available in: %s</key>
+    </language-switcher-settings>
+</wpml-config>

@@ -1,0 +1,329 @@
+.oxygen-help {
+  /*.lab-faq-links {
+	}
+
+	.lab-faq-links li {
+		margin-top: 18px;
+		background: #FFF;
+		border: 1px solid #E0E0E0;
+		padding: 0;
+	}
+	
+	.lab-faq-links li > strong {
+		display: block;
+		padding: 10px 15px;
+		background: rgba(238,238,238,0.6);
+	}
+
+	.lab-faq-links li:target {
+		-webkit-animation: blink 1s 3;
+		-moz-animation: blink 1s 3;
+		-o-animation: blink 1s 3;
+		animation: blink 1s 3;
+	}
+
+	.lab-faq-links li pre {
+		font-size: 13px;
+		max-width: 100%;
+		word-break: break-word;
+		padding: 10px 15px;
+		padding-top: 5px;
+		white-space: pre-line;
+	}
+
+	.lab-faq-links .warn {
+		display: block;
+		font-family: Arial, Helvetica, sans-serif;
+		border: 1px solid #999;
+		padding: 10px;
+		font-size: 12px;
+		text-transform: uppercase;
+	}
+	
+	.lab-faq-links li {
+	  background: transparent !important;
+	  border: none !important;
+	}
+	
+	.lab-faq-links li > strong {
+	    background: #FFF !important;
+	    border-radius: 3px;
+	    box-shadow: 0px 2px 10px -5px rgba(0,0,0,0.3);
+	}
+	
+	.lab-faq-links li pre {
+	    padding: 0px;
+	    color: #666;
+	    font-family: sans-serif;
+	}
+	
+	.docs-and-support {
+	    background: #FFF !important;
+	    padding: 30px 25px 0px 25px;
+	    box-shadow: 0px 2px 10px -5px rgba(0,0,0,0.3);
+	    border-radius: 3px;
+	    position: relative !important;
+	    clear: both !important;
+	}
+	
+	.wrap.about-wrap .text-left {
+	  display: block;
+	  clear: both;
+	  margin: 0px;
+	  font-size: 32px !important;
+	}
+	
+	.docs-and-support  {
+	  margin-top: 20px;
+	} 
+	
+	.docs-and-support  p {
+	  margin-bottom: 30px !important
+	}
+	
+	.docs-and-support .button.button-primary {
+	  position: relative;
+	  width: 49%;
+	  border-right: 1px solid #DDD;
+	}
+	
+	
+	.docs-and-support .button {
+	  position: relative;
+	  width: 50%;
+	  border: none;
+	  background: none;
+	  border-radius: 0px;
+	  border-top: 1px solid #DDD;
+	  padding: 20px;
+	  box-shadow: none;
+	  line-height: 0px;
+	  font-size: 14px;
+	  height: auto !important;
+	  display: inline-block !important;
+	  padding: 0px 15px;
+	  line-height: 64px;
+	  text-shadow: none !important;
+	  color: #222 !important;
+	}
+	
+	.docs-and-support .button:hover {
+	  background: #FAFAFA;
+	}*/
+}
+.oxygen-help .docs-and-support {
+  position: relative;
+  background: #FFF;
+  padding: 25px;
+  padding-bottom: 0;
+  margin-top: 35px;
+  box-shadow: 0px 2px 10px -5px rgba(0, 0, 0, 0.3);
+  border-radius: 3px;
+  clear: both;
+}
+.oxygen-help .docs-and-support h2 {
+  margin-top: 0;
+  font-size: 32px;
+}
+.oxygen-help .docs-and-support .docs-links {
+  position: relative;
+  margin: 0 -25px;
+  margin-top: 25px;
+}
+.oxygen-help .docs-and-support .docs-links a {
+  display: block;
+  float: left;
+  position: relative;
+  border: none;
+  background: none;
+  border-radius: 0px;
+  border-top: 1px solid #DDD;
+  padding: 20px;
+  box-shadow: none;
+  line-height: 0px;
+  font-size: 14px;
+  padding: 0px 25px;
+  line-height: 64px;
+  color: #222;
+  width: 50%;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-weight: 500;
+  text-align: center;
+}
+.oxygen-help .docs-and-support .docs-links a:only-child {
+  width: 100%;
+}
+.oxygen-help .docs-and-support .docs-links a:hover {
+  background-color: #fafafa;
+  color: #000;
+}
+.oxygen-help .docs-and-support .docs-links a + a {
+  border-left: 1px solid #DDD;
+}
+.oxygen-help .docs-and-support + h2 {
+  font-size: 32px;
+  margin-top: 50px;
+}
+.oxygen-help .oxygen-faq-links li {
+  position: relative;
+  background: #FFF;
+  border-radius: 3px;
+  box-shadow: 0px 2px 10px -5px rgba(0, 0, 0, 0.3);
+  margin-top: 20px;
+}
+.oxygen-help .oxygen-faq-links li .oxygen-faq-title {
+  font-size: 15px;
+  margin: 0;
+}
+.oxygen-help .oxygen-faq-links li .oxygen-faq-title a {
+  display: block;
+  color: #333;
+  text-decoration: none;
+  padding: 10px 20px;
+}
+.oxygen-help .oxygen-faq-links li .oxygen-faq-title a i {
+  display: inline-block;
+  width: 25px;
+  position: relative;
+  height: 6px;
+}
+.oxygen-help .oxygen-faq-links li .oxygen-faq-title a i:before,
+.oxygen-help .oxygen-faq-links li .oxygen-faq-title a i:after {
+  position: absolute;
+  width: 14px;
+  height: 3px;
+  background-color: #222;
+  content: '';
+  left: 0;
+  top: 0;
+  transition: all 300ms;
+}
+.oxygen-help .oxygen-faq-links li .oxygen-faq-title a i:after {
+  transform: rotate(90deg);
+}
+.oxygen-help .oxygen-faq-links li .oxygen-faq-title a em {
+  color: #ddd;
+  float: right;
+  font-style: normal;
+  user-select: none;
+}
+.oxygen-help .oxygen-faq-links li .oxygen-faq-title a:hover,
+.oxygen-help .oxygen-faq-links li .oxygen-faq-title a:focus,
+.oxygen-help .oxygen-faq-links li .oxygen-faq-title a:active {
+  box-shadow: none;
+}
+.oxygen-help .oxygen-faq-links li .oxygen-faq-content {
+  display: none;
+  padding: 10px 20px;
+  box-sizing: border-box;
+  border-top: 1px solid rgba(221, 221, 221, 0.5);
+}
+.oxygen-help .oxygen-faq-links li .oxygen-faq-content .oxygen-faq-view-article {
+  position: relative;
+  text-align: center;
+  display: block;
+  color: #333;
+  border-top: 1px solid #ddd;
+  padding: 10px;
+  margin-left: -20px;
+  margin-right: -20px;
+  top: 10px;
+  text-decoration: none;
+  background-color: #fafafa;
+  font-size: 12px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+.oxygen-help .oxygen-faq-links li .oxygen-faq-content .oxygen-faq-view-article:hover,
+.oxygen-help .oxygen-faq-links li .oxygen-faq-content .oxygen-faq-view-article:active,
+.oxygen-help .oxygen-faq-links li .oxygen-faq-content .oxygen-faq-view-article:focus {
+  box-shadow: none;
+  color: #000;
+}
+.oxygen-help .oxygen-faq-links li .oxygen-faq-content h2,
+.oxygen-help .oxygen-faq-links li .oxygen-faq-content h3 {
+  color: #444;
+  font-weight: 500;
+  margin-top: 10px;
+}
+.oxygen-help .oxygen-faq-links li .oxygen-faq-content blockquote {
+  border-left: 5px solid rgba(255, 221, 0, 0.5);
+  padding: 5px;
+  margin: 0;
+  padding-left: 25px;
+  margin-top: 30px;
+  background-color: rgba(255, 221, 0, 0.2);
+}
+.oxygen-help .oxygen-faq-links li .oxygen-faq-content blockquote.small {
+  padding-left: 15px;
+}
+.oxygen-help .oxygen-faq-links li .oxygen-faq-content blockquote.small p {
+  font-size: 13px;
+  margin: 5px 0;
+}
+.oxygen-help .oxygen-faq-links li .oxygen-faq-content ul,
+.oxygen-help .oxygen-faq-links li .oxygen-faq-content ol {
+  list-style: disc;
+  margin-left: 35px;
+  margin-bottom: 30px;
+}
+.oxygen-help .oxygen-faq-links li .oxygen-faq-content ul li,
+.oxygen-help .oxygen-faq-links li .oxygen-faq-content ol li {
+  box-shadow: none;
+}
+.oxygen-help .oxygen-faq-links li .oxygen-faq-content ol {
+  list-style: decimal;
+}
+.oxygen-help .oxygen-faq-links li.blink {
+  opacity: 1;
+  animation: blink 1s 3;
+}
+.oxygen-help .oxygen-faq-links li.current .oxygen-faq-title {
+  background-color: #fafafa;
+}
+.oxygen-help .oxygen-faq-links li.current .oxygen-faq-title a i:after {
+  opacity: 0;
+}
+.oxygen-help .oxygen-faq-links li.more .oxygen-faq-title a {
+  text-align: center;
+}
+@keyframes blink {
+  0% {
+    box-shadow: 0px 0px 0px 10px rgba(255, 255, 0, 0);
+  }
+  50% {
+    box-shadow: 0px 0px 0px 10px rgba(255, 255, 0, 0.7);
+  }
+  100% {
+    box-shadow: 0px 0px 0px 10px rgba(255, 255, 0, 0);
+  }
+}
+.laborator-notice #oxygen-acf5-pro-install-button .loading {
+  position: relative;
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  overflow: hidden;
+  top: 3px;
+  border: solid 2px #919191;
+  border-bottom-color: transparent;
+  border-radius: 20px;
+  animation: rotate 1s linear infinite;
+  box-sizing: border-box;
+  will-change: transform;
+  margin-right: 5px;
+  display: none;
+}
+@keyframes rotate {
+  0% {
+    transform: rotate3d(0, 0, 1, 0deg);
+  }
+  100% {
+    transform: rotate3d(0, 0, 1, 359deg);
+  }
+}
+.laborator-notice #oxygen-acf5-pro-install-button.disabled .loading {
+  display: inline-block;
+}
+/*# sourceMappingURL=main.css.map */

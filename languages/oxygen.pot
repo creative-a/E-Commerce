@@ -1,0 +1,456 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Oxygen\n"
+"POT-Creation-Date: 2019-08-26 12:43+0200\n"
+"PO-Revision-Date: 2016-01-28 10:52+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: inc/lib/laborator\n"
+"X-Poedit-SearchPathExcluded-2: inc/lib/smof\n"
+"X-Poedit-SearchPathExcluded-3: assets\n"
+"X-Poedit-SearchPathExcluded-4: inc/lib/laborator/laborator-demo-content-"
+"importer\n"
+"X-Poedit-SearchPathExcluded-5: inc/lib/class-tgm-plugin-activation.php\n"
+"X-Poedit-SearchPathExcluded-6: woocommerce\n"
+
+#: 404.php:31
+msgid "This page does not exist!"
+msgstr ""
+
+#: 404.php:35
+msgid "Go back to home page"
+msgstr ""
+
+#: comments.php:20
+msgid "Comments"
+msgstr ""
+
+#: inc/laborator_actions.php:629 tpls/contact-form.php:18
+msgid "Name"
+msgstr ""
+
+#: inc/laborator_actions.php:630 tpls/contact-form.php:19
+msgid "E-mail"
+msgstr ""
+
+#: inc/laborator_actions.php:631 tpls/contact-form.php:20
+msgid "Phone Number"
+msgstr ""
+
+#: inc/laborator_actions.php:632 tpls/contact-form.php:21
+msgid "Message"
+msgstr ""
+
+#: inc/laborator_functions.php:81
+msgid "Home"
+msgstr ""
+
+#: inc/laborator_functions.php:82
+#, php-format
+msgid "Category: \"%s\""
+msgstr ""
+
+#: inc/laborator_functions.php:83
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: inc/laborator_functions.php:84
+#, php-format
+msgid "Tag: \"%s\""
+msgstr ""
+
+#: inc/laborator_functions.php:85
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: inc/laborator_functions.php:86
+msgid "Error 404"
+msgstr ""
+
+#: inc/laborator_functions.php:284
+msgid "Page"
+msgstr ""
+
+#: inc/laborator_functions.php:309
+msgid "Share on Facebook"
+msgstr ""
+
+#: inc/laborator_functions.php:315
+msgid "Share on Twitter"
+msgstr ""
+
+#: inc/laborator_functions.php:321
+msgid "Share on Google+"
+msgstr ""
+
+#: inc/laborator_functions.php:327
+msgid "Share on Tumblr"
+msgstr ""
+
+#: inc/laborator_functions.php:333
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: inc/laborator_functions.php:339
+msgid "Share on Pinterest"
+msgstr ""
+
+#: inc/laborator_functions.php:345
+msgid "Share on VKontakte"
+msgstr ""
+
+#: inc/laborator_functions.php:351
+msgid "Share via Email"
+msgstr ""
+
+#: inc/laborator_functions.php:1235
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: inc/laborator_functions.php:1246
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/laborator_functions.php:1261
+msgid "Edit"
+msgstr ""
+
+#: inc/laborator_functions.php:1266
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/lib/acf-revslider/acf-revslider-v4.php:82
+msgid "(Do not use slider)"
+msgstr ""
+
+#: inc/lib/visual-composer/laborator-shortcodes/laborator_banner2.php:70
+#: inc/woocommerce-cart.php:22
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/lib/visual-composer/laborator-shortcodes/laborator_banner2.php:252
+msgid "Set the banner image."
+msgstr ""
+
+#: inc/lib/visual-composer/laborator-shortcodes/laborator_blog.php:98
+#: tpls/blog-post.php:54
+msgid "Read more..."
+msgstr ""
+
+#: inc/lib/visual-composer/laborator-shortcodes/laborator_lookbook.php:99
+#: inc/lib/visual-composer/laborator-shortcodes/laborator_products_carousel.php:149
+msgid "Loading products..."
+msgstr ""
+
+#: inc/lib/visual-composer/laborator-shortcodes/laborator_lookbook.php:167
+msgid "Select Options"
+msgstr ""
+
+#: inc/lib/visual-composer/laborator-shortcodes/laborator_lookbook.php:174
+msgid "Select Products"
+msgstr ""
+
+#: inc/lib/visual-composer/laborator-shortcodes/laborator_lookbook.php:189
+msgid "Add to Cart"
+msgstr ""
+
+#: inc/lib/visual-composer/laborator-shortcodes/laborator_lookbook.php:203
+msgid "Adding to cart..."
+msgstr ""
+
+#: inc/woocommerce-cart.php:21 inc/woocommerce-cart.php:39
+msgid "Shopping Cart"
+msgstr ""
+
+#: inc/woocommerce-cart.php:40
+msgid "Your cart is currently empty"
+msgstr ""
+
+#: inc/woocommerce-cart.php:142
+msgid "Update Cart"
+msgstr ""
+
+#: inc/woocommerce-cart.php:148 tpls/header-cart.php:42
+msgid "Checkout"
+msgstr ""
+
+#: inc/woocommerce-cart.php:168
+msgid "Coupon:"
+msgstr ""
+
+#: inc/woocommerce-cart.php:172
+msgid "Coupon code"
+msgstr ""
+
+#: inc/woocommerce-cart.php:174
+msgid "Apply coupon"
+msgstr ""
+
+#: inc/woocommerce-checkout.php:75
+msgid "Payment method"
+msgstr ""
+
+#: inc/woocommerce-checkout.php:89
+msgid "Quantity"
+msgstr ""
+
+#: inc/woocommerce-core.php:303
+msgid "Previous"
+msgstr ""
+
+#: inc/woocommerce-core.php:304
+msgid "Next"
+msgstr ""
+
+#: inc/woocommerce-loop.php:87
+msgid "Featured"
+msgstr ""
+
+#: inc/woocommerce-loop.php:96
+msgid "Out of stock"
+msgstr ""
+
+#: inc/woocommerce-loop.php:105
+msgid "Sale"
+msgstr ""
+
+#: inc/woocommerce-loop.php:201
+msgid "Quick View"
+msgstr ""
+
+#: inc/woocommerce-loop.php:217
+msgid "Adding to cart"
+msgstr ""
+
+#: inc/woocommerce-loop.php:434
+msgid "View Product"
+msgstr ""
+
+#: inc/woocommerce-other.php:63
+#, php-format
+msgid "Q: %d"
+msgstr ""
+
+#: inc/woocommerce-single.php:131
+msgid "View product photo in fullscreen"
+msgstr ""
+
+#: search.php:25
+#, php-format
+msgid "Showing <span>%d</span> result for"
+msgid_plural "Showing <span>%d</span> results for:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: search.php:30
+msgid "Didn't find what you were looking for?"
+msgstr ""
+
+#: search.php:31
+msgid "Search again"
+msgstr ""
+
+#: search.php:47 sidebar-menu-top.php:112 sidebar-menu-top.php:163
+#: sidebar-menu-top.php:216 sidebar-menu.php:45 tpls/mobile-menu.php:27
+msgid "Search..."
+msgstr ""
+
+#: theme-demo/theme-demo.php:265
+msgid "Loading..."
+msgstr ""
+
+#: tpls/blog-loop.php:19
+#, php-format
+msgid "Category - %s"
+msgstr ""
+
+#: tpls/blog-loop.php:23
+#, php-format
+msgid " Tag - %s"
+msgstr ""
+
+#: tpls/blog-loop.php:27
+#, php-format
+msgid "Author - %s"
+msgstr ""
+
+#: tpls/blog-post-single.php:41
+msgid "Loading images..."
+msgstr ""
+
+#: tpls/blog-post-single.php:91
+msgid "In "
+msgstr ""
+
+#: tpls/blog-post-single.php:97
+#, php-format
+msgid "on %s"
+msgstr ""
+
+#: tpls/blog-post-single.php:103
+msgid "Tags"
+msgstr ""
+
+#: tpls/blog-post-single.php:116
+msgid "Pages:"
+msgstr ""
+
+#: tpls/blog-post-single.php:137
+#, php-format
+msgid "About the author: %s"
+msgstr ""
+
+#: tpls/blog-post-single.php:141
+msgid "No other information about this author."
+msgstr ""
+
+#: tpls/blog-post-single.php:158
+msgid "Share This Story"
+msgstr ""
+
+#: tpls/blog-post.php:98
+#, php-format
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tpls/contact-address.php:38
+msgid "Show me the route?"
+msgstr ""
+
+#: tpls/contact-address.php:49
+msgid "Select Point/Destination"
+msgstr ""
+
+#: tpls/contact-address.php:52
+msgid "Select point"
+msgstr ""
+
+#: tpls/contact-address.php:77
+msgid "My current location"
+msgstr ""
+
+#: tpls/contact-address.php:85
+msgid "Specific address"
+msgstr ""
+
+#: tpls/contact-address.php:89
+msgid "Enter your address..."
+msgstr ""
+
+#: tpls/contact-address.php:90
+msgid "Cannot find this address!"
+msgstr ""
+
+#: tpls/contact-address.php:95
+msgid "Calculate route"
+msgstr ""
+
+#: tpls/contact-address.php:97
+msgid "Unable to find the route path!"
+msgstr ""
+
+#: tpls/contact-address.php:102
+msgid "km"
+msgstr ""
+
+#: tpls/contact-address.php:108
+msgid "mins"
+msgstr ""
+
+#: tpls/contact-address.php:112
+msgid "Clear route"
+msgstr ""
+
+#: tpls/contact-form.php:59
+msgid "You must accept the site privacy policy in order to submit this form."
+msgstr ""
+
+#: tpls/contact-form.php:66
+msgid "Send"
+msgstr ""
+
+#: tpls/contact-map.php:108
+msgid "Roadmap"
+msgstr ""
+
+#: tpls/contact-map.php:112
+msgid "Satellite"
+msgstr ""
+
+#: tpls/contact-map.php:116
+msgid "Street View"
+msgstr ""
+
+#: tpls/contact-map.php:121
+msgid "Hide Contact Blocks"
+msgstr ""
+
+#: tpls/contact-map.php:121
+msgid "Show Contact Blocks"
+msgstr ""
+
+#: tpls/header-cart.php:26
+msgid "Loading cart contents..."
+msgstr ""
+
+#: tpls/header-cart.php:37
+msgid "View Cart"
+msgstr ""
+
+#: tpls/header-cart.php:46
+msgid "Cart subtotal"
+msgstr ""
+
+#: tpls/mobile-menu.php:46
+msgid "Cart"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Oxygen"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://laborator.co/themes/oxygen/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Oxygen &ndash; is a WooCommerce theme, built exclusively for online shopping "
+"and offers great variety of options to customize the look and feel of the "
+"theme via theme options panel. Activate it and let the fun begin. Connect "
+"with Laborator on: <a href=\"https://themeforest.net/user/laborator"
+"\">Envato</a> &bull; <a href=\"https://twitter.com/thelaborator\">Twitter</"
+"a> &bull; <a href=\"https://www.facebook.com/laboratorcreative\">Facebook</"
+"a> &bull; <a href=\"https://www.instagram.com/laboratorcreative/"
+"\">Instagram</a>"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Laborator"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://laborator.co/"
+msgstr ""
